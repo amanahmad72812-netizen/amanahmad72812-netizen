@@ -1,16 +1,25 @@
-## Hi there 👋
+# Aman Ahmad
 
-<!--
-**amanahmad72812-netizen/amanahmad72812-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Data Science student at the University of Engineering and Technology (UET). I enjoy understanding data, cleaning it, and finding useful insights from it. I am currently learning Python, data analysis, and machine learning. My goal is to become a skilled Data Scientist.
 
-Here are some ideas to get you started:
+## Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category     | Technologies                            |
+|--------------|-----------------------------------------|
+| Languages    | Python, SQL                             |
+| Data Science | Pandas, NumPy, Matplotlib, Scikit-learn |
+| Tools        | Git, GitHub, VS Code, Jupyter Notebook  |
+
+## Featured Projects
+
+### Project 1
+Write the name and a short description of one of your data analysis or machine learning projects.
+
+## Education
+BS Data Science, University of Engineering and Technology (UET), Semester 3
+
+## Contact
+- Email: amanahmad72812@gmail.com
+- LinkedIn: [Profile](https://linkedin.com/in/your-id)
+- GitHub: [@amanahmad72812-netizen](https://github.com/amanahmad72812-netizen)
